@@ -85,6 +85,4 @@ Consulta el archivo LICENSE para más detalles o el enlace https://www.gnu.org/l
 ### Captura ventana interfaz gráfica
 ![Ventana interfaz gráfica](ventana.png)
 
-
 ![Ventana interfaz gráfica](ventana2.png)
-
