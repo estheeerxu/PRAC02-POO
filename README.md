@@ -83,6 +83,7 @@ Este proyecto está bajo licencia GPL v3 para que sea libre y sus derivados tamb
 Consulta el archivo LICENSE para más detalles o el enlace https://www.gnu.org/licenses/gpl-3.0.txt
 
 ### Captura ventana interfaz gráfica
-![Ventana interfaz gráfica](ventana.png)
+(ventana.png)
+
 
 ![Ventana interfaz gráfica](ventana2.png)
